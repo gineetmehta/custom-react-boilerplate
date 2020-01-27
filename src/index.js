@@ -1,3 +1,6 @@
+// Import root styles scss file
+import './sass/styles.scss';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/App';

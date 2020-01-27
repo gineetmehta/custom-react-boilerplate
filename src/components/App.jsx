@@ -1,7 +1,9 @@
 import React from 'react';
 
 const App = () => {
-  return <h1>Hello React App!</h1>
+  return <div className='home'>
+    <h1 className='home__heading'>Hello React App!</h1>
+  </div>
 };
 
 export default App;
